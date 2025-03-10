@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://beritapremierleague.github.io/berita-terbaru/sitemap.xml
