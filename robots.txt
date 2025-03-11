@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://beritapremierleague.github.io/berita-terbaru/sitemap.xml
+Sitemap: https://beritapremierleague.github.io/berita-terbaru/sitemap1.xml
