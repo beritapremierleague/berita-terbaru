@@ -1,0 +1,16 @@
+title: "Berita Premier League"
+description: "Berita Premier League - Berita, informasi, dan update terkini dari seluruh dunia"
+url: "https://beritapremierleague.github.io"
+baseurl: "/berita-terbaru"  # Jika ada di subfolder
+
+# Plugin
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
